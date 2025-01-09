@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2025-01-01
-img: game_dev.png
+img: music.png
 alt: image-alt
 project-date: January 2025
 client: Start Bootstrap
