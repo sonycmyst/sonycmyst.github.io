@@ -7,5 +7,5 @@ alt: image-alt
 project-date: January 2025
 client: Start Bootstrap
 category: Textile Art
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Shop coming soon!<br> In the meantime, fellow crafters can join me on [Ravelry](https://www.ravelry.com/people/pumashock) and [Pinterest](https://pin.it/6XGSPnehD). 
 ---
