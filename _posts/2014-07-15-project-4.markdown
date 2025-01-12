@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 4
+title: Textile Art
 date: 2025-01-01
 img: textiles.png
 alt: Textile Art
