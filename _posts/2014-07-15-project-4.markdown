@@ -4,8 +4,8 @@ modal-id: 4
 date: 2025-01-01
 img: textiles.png
 alt: Textile Art
-project-date: January 2025
+<!-- project-date: January 2025
 client: Start Bootstrap
-category: Textile Art
+category: Textile Art -->
 description: Shop coming soon!<br> In the meantime, fellow crafters can join me on  <a href="https://www.ravelry.com/people/pumashock">Ravelry</a> and <a href="https://pin.it/6XGSPnehD">Pinterest</a>. 
 ---
