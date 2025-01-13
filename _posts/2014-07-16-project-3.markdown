@@ -17,7 +17,9 @@ description: You are one-of-a-kind and have something meaningful to offer the wo
     </div>
     <div class="row">
       <div class="col-lg-4 col-lg-offset-2">
-        <p><img src="/img/Mission.png" alt="Italian Trulli">Mission & Value Proposition<br> Personas & Messaging Strategy <br> Visual Style Guide</p>
+        <p><img src="/img/Mission.png" alt="Mission & Value Proposition"><br> 
+		<img src="/img/Personas.png" alt="Personas & Messaging Strategy"><br> 
+		<img src="/img/Visual_Style.png" alt="Visual Style Guide"></p>
       </div>
       <div class="col-lg-4">
         <p>Copywriting<br> Website Building<br> Social Media & Print Assets<br></p>
