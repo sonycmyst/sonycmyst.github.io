@@ -8,6 +8,7 @@ alt: Branding
 # client: Start Bootstrap
 # category: Branding 
 description: You are one-of-a-kind and have something meaningful to offer the world. Your brand should reflect that. By developing distinctive visuals and written elements aligned with your values and goals, you can show your authentic self and attract the kindred spirits you seek. I can help you create a unique brand identity that builds recognition, connection and trust with your audience.
+<section>
  <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -17,11 +18,12 @@ description: You are one-of-a-kind and have something meaningful to offer the wo
     </div>
     <div class="row">
       <div class="col-lg-4 col-lg-offset-2">
-        <p><img src="/img/Mission.png" alt="Mission & Value Proposition"><br><img src="/img/Personas.png" alt="Personas & Messaging Strategy"><br><img src="/img/Visual_Style.png" alt="Visual Style Guide"></p>
+        <p><img src="/branding_icons/img/Mission.png" alt="Mission & Value Proposition"><br><img src="/branding_icons/img/Personas.png" alt="Personas & Messaging Strategy"><br><img src="/branding_icons/img/Visual_Style.png" alt="Visual Style Guide"></p>
       </div>
       <div class="col-lg-4">
-        <p>Copywriting<br> Website Building<br> Social Media & Print Assets<br></p>
+        <p><img src="/branding_icons/img/Copywriting.png" alt="Copywriting"><br><img src="/branding_icons/img/Website_Building.png" alt="Website Building"><br><img src="/branding_icons/img/Social_Media.png" alt="Social Media & Print Assets"></p>
       </div>
     </div>
   </div>
+  </section>
 ---
