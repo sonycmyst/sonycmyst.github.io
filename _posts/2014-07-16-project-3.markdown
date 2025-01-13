@@ -11,7 +11,7 @@ description: You are one-of-a-kind and have something meaningful to offer the wo
  <section>
  <div class="container">
     <div class="row">
-      <div class="col-lg-12">
+      <div class="col-lg-4 text-center">
         <h2>Breathe life into your brand</h2>
         <hr class="star-primary">
       </div>
