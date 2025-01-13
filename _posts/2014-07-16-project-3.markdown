@@ -30,7 +30,7 @@ description: You are one-of-a-kind and have something meaningful to offer the wo
        <div class="col-lg-8 col-lg-offset-2">
         <p><img src="/img/testimonials/Ariana_testimonial.png" alt="Ariana's testimonial"></p>
       </div>
-      <div class="col-lg-6 text-left">
+      <div class="col-lg-8 col-lg-offset-2">
         <p><img src="/img/testimonials/Ariana_testimonial.png" alt="Ariana's testimonial"></p>
       </div>
     </div>
