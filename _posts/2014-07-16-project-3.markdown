@@ -35,15 +35,4 @@ description: You are one-of-a-kind and have something meaningful to offer the wo
       </div>
     </div>
   </div>
-  
-    <div class="container">
-    <div class="row">
-       <div class="col-lg-6 text-left">
-        <p>My Portfolio</p>
-      </div>
-      <div class="col-lg-6 text-left">
-        <p>I've had the pleasure to work on employer branding projects for major<br> companies across industries: General Motors, Northrop Grumman,<br> US Department of State, Capital One, Macy's, Ann Taylor and more.</p>
-      </div>
-    </div>
-  </div>
 ---
