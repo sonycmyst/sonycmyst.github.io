@@ -8,10 +8,10 @@ alt: Branding
 # client: Start Bootstrap
 # category: Branding 
 description: You are one-of-a-kind and have something meaningful to offer the world. Your brand should reflect that. By developing distinctive visuals and written elements aligned with your values and goals, you can show your authentic self and attract the kindred spirits you seek. I can help you create a unique brand identity that builds recognition, connection and trust with your audience.
- <section>
+# Offered Services
  <div class="container">
     <div class="row">
-      <div class="col-lg-8 col-lg-offset-1">
+      <div class="col-lg-8 col-lg-offset-2">
         <h2>Breathe life into your brand</h2>
         <hr class="star-primary">
       </div>
@@ -25,5 +25,15 @@ description: You are one-of-a-kind and have something meaningful to offer the wo
       </div>
     </div>
   </div>
-  </section>
+ # Testimonials
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4 text-left">
+        <p><img src="/img/testimonials/Ariana_testimonial.png" alt="Ariana's testimonial"><br><img src="/img/branding_icons/Personas.png" alt="Personas & Messaging Strategy"><br><img src="/img/branding_icons/Visual_Style.png" alt="Visual Style Guide"></p>
+      </div>
+      <div class="col-lg-4 text-left">
+        <p><img src="/img/branding_icons/Copywriting.png" alt="Copywriting"><br><img src="/img/branding_icons/Website_Building.png" alt="Website Building"><br><img src="/img/branding_icons/Social_Media.png" alt="Social Media & Print Assets"></p>
+      </div>
+    </div>
+  </div>
 ---
