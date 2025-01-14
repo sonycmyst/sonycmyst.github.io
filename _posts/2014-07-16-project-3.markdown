@@ -5,6 +5,7 @@ date: 2025-01-01
 img: branding1.png
 alt: Branding
 description: You are one-of-a-kind and have something meaningful to offer the world. Your brand should reflect that. By developing distinctive visuals and written elements aligned with your values and goals, you can show your authentic self and attract the kindred spirits you seek. I can help you create a unique brand identity that builds recognition, connection and trust with your audience.
+
 section_title_1: NA
 services_1: Mission.png
 services_1_alt: Mission & Value Proposition
@@ -18,17 +19,26 @@ services_5: Website_Building.png
 services_5_alt: Website Building
 services_6: Social_Media.png
 services_6_alt: Social Media & Print Assets
+
 brand_testimonial: NA
 testimonial_1: Ariana_testimonial.png
 testimonial_1_alt: Ariana's testimonial
 testimonial_2: Victoria_testimonial.png
 testimonial_2_alt: Victoria's testimonial
+
 brand_portfolio: NA
 brand_portfolio_title: My Portfolio
 brand_portfolio_description: I've had the pleasure to work on employer branding projects for major companies across industries—General Motors, Northrop Grumman, US Department of State, Capital One, Macy's, Ann Taylor and more.
 brand_portfolio_1: NA
-brand_pdf_1_title: GM Careers
-brand_pdf_1: GM_MadeForMore_HomePG.pdf
+brand_img_1_title: GM Careers
+brand_img_1: GM_MadeForMore_HomePG.png
+brand_portfolio_2: NA
+brand_img_2_title: Capital One Cafe
+brand_img_2: CapitalOneCafe_CafeSpirit.jpeg
+brand_portfolio_3: NA
+brand_img_3_title: Ann Taylor Careers
+brand_img_3: ANN_TAYLOR_Careers.jpeg
+
 # project-date: January 2025
 # client: Start Bootstrap
 # category: Branding 
