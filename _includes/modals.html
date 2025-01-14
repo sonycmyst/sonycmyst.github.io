@@ -11,7 +11,7 @@
     </div>
     <div class="container">
       <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
+        <div class="col-lg-12">
           <div class="modal-body">
 			{% if post.title %}
             <h2>{{ post.title }}</h2>
@@ -19,7 +19,40 @@
             <hr class="star-primary">
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             {% if post.description %}
-            <p>{{ post.description }}</p>
+				<div class="row">
+					<div class="col-lg-8 col-lg-offset-2 text-center">
+						<p>{{ post.description }}</p>
+					</div>
+				</div>	
+            {% endif %}
+			<br>
+			{% if post.section_title_1 %}
+            <h2>Breathe life into your brand</h2>
+			{% endif %}
+            <hr class="star-primary">
+			{% if post.section_title_1 %}
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6 text-center">
+						<p><img src="/img/branding_icons/{{ post.services_1 }}" alt="{{ post.services_1_alt }}"><br><img src="/img/branding_icons/{{ post.services_2 }}" alt="{{ post.services_2_alt }}"><br><img src="/img/branding_icons/{{ post.services_3 }}" alt="{{ post.services_3_alt }}"></p>
+					</div>
+					<div class="col-lg-6 text-center">
+						<p><img src="/img/branding_icons/{{ post.services_4 }}" alt="{{ post.services_4_alt }}"><br><img src="/img/branding_icons/{{ post.services_5 }}" alt="{{ post.services_5_alt }}"><br><img src="/img/branding_icons/{{ post.services_6 }}" alt="{{ post.services_6_alt }}"></p>
+					</div>
+				</div>
+			</div>
+			{% endif %}
+			{% if post.brand_testimonial %}
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6 text-center">
+						<img src="img/testimonials/{{ post.testimonial_1 }}" class="img-responsive img-centered" alt="{{ post.testimonial_1_alt }}">
+					</div>
+					<div class="col-lg-6 text-center">
+						<img src="img/testimonials/{{ post.testimonial_2 }}" class="img-responsive img-centered" alt="{{ post.testimonial_2_alt }}">
+					</div>
+				</div>
+			</div>
             {% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}
