@@ -26,6 +26,9 @@ testimonial_2_alt: Victoria's testimonial
 brand_portfolio: NA
 brand_portfolio_title: My Portfolio
 brand_portfolio_description: I've had the pleasure to work on employer branding projects for major companies across industries—General Motors, Northrop Grumman, US Department of State, Capital One, Macy's, Ann Taylor and more.
+brand_portfolio_1: NA
+brand_pdf_1_title: GM Careers
+brand_pdf_1: GM_MadeForMore_HomePG.pdf
 # project-date: January 2025
 # client: Start Bootstrap
 # category: Branding 
