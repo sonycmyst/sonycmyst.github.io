@@ -23,6 +23,9 @@ testimonial_1: Ariana_testimonial.png
 testimonial_1_alt: Ariana's testimonial
 testimonial_2: Victoria_testimonial.png
 testimonial_2_alt: Victoria's testimonial
+brand_portfolio: NA
+brand_portfolio_title: My Portfolio
+brand_portfolio_description: I've had the pleasure to work on employer branding projects for major companies across industries—General Motors, Northrop Grumman, US Department of State, Capital One, Macy's, Ann Taylor and more.
 # project-date: January 2025
 # client: Start Bootstrap
 # category: Branding 

@@ -24,8 +24,7 @@
 						<p>{{ post.description }}</p>
 					</div>
 				</div>	
-            {% endif %}
-			<br>
+            {% endif %}<br>
 			{% if post.section_title_1 %}
             <h2>Breathe life into your brand</h2>
 			{% endif %}
@@ -50,6 +49,18 @@
 					</div>
 					<div class="col-lg-6 text-center">
 						<img src="img/testimonials/{{ post.testimonial_2 }}" class="img-responsive img-centered" alt="{{ post.testimonial_2_alt }}">
+					</div>
+				</div>
+			</div>
+            {% endif %}
+			{% if post.brand_portfolio %}
+			 <div class="container">
+				<div class="row">
+					<div class="col-lg-4 text-right">
+						<h3>{{ post.brand_portfolio_title }}</h3>
+					</div>
+					<div class="col-lg-8 text-left">
+						<p>{{ post.brand_portfolio_description }}</p>
 					</div>
 				</div>
 			</div>
