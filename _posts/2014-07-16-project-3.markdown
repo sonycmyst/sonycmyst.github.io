@@ -38,6 +38,9 @@ brand_img_2: CapitalOneCafe_CafeSpirit.jpeg
 brand_portfolio_3: NA
 brand_img_3_title: Ann Taylor Careers
 brand_img_3: ANN_TAYLOR_Careers.jpeg
+brand_portfolio_4: NA
+brand_img_4_title: Cleveland Clinic Careers
+brand_img_4: CC_Careers_HomePG.jpeg
 
 # project-date: January 2025
 # client: Start Bootstrap
