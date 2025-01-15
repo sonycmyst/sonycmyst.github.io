@@ -51,12 +51,16 @@ brand_img_6: ComcastCareers_SalesConsultantPg.jpeg
 
 section_2: NA
 section_title_2: The branding process
+process_1_title: Discovery.png
 process_1: Phase1_Discovery.png
 process_1_alt: Phase 1 - Discovery
+process_2_title: Development.png
 process_2: Phase2_Dev.png
 process_2_alt: Phase 2 - Development
+process_3_title: Design.png
 process_3: Phase3_Design.png
 process_3_alt: Phase 3 - Design
+process_4_title: Delivery.png
 process_4: Phase4_Delivery.png
 process_4_alt: Phase 4 - Delivery
 
