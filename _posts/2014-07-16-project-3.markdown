@@ -44,6 +44,9 @@ brand_img_4: ANN_TAYLOR_Careers.jpeg
 brand_portfolio_5: NA
 brand_img_5_title: Cleveland Clinic Careers
 brand_img_5: CC_Careers_HomePG.jpeg
+brand_portfolio_6: NA
+brand_img_6_title: Comcast Careers
+brand_img_6: ComcastCareers_SalesConsultantPg.jpeg
 
 # project-date: January 2025
 # client: Start Bootstrap
