@@ -13,16 +13,22 @@ description: You're a creative who understand the value of a strong, unique soun
 section_1: NA
 section_title_1: What's your big idea?
 brand_section_1: NA
-services_1: Video_Games.png
+services_1: music_icons/Video_Games.png
 services_1_alt: Video Games
-services_2: TV_Animation.png
+services_2: music_icons/TV_Animation.png
 services_2_alt: TV & Animation
-services_3: Film_Documentary.png
+services_3: music_icons/Film_Documentary.png
 services_3_alt: Film & Documentary
-services_4: Songwriting.png
+services_4: music_icons/Songwriting.png
 services_4_alt: Songwriting
-services_5: Theme_Songs.png
+services_5: music_icons/Theme_Songs.png
 services_5_alt: Theme Songs
-services_6: Jingles_Idents.png
+services_6: music_icons/Jingles_Idents.png
 services_6_alt: Brand Jingles & Idents
+
+brand_testimonial: NA
+testimonial_1: Teo_testimonial.png
+testimonial_1_alt: Aron's testimonial
+testimonial_2: clever_girls_testimonial.png
+testimonial_2_alt: ghost kid's testimonial
 ---
