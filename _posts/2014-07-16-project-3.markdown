@@ -30,17 +30,20 @@ brand_portfolio: NA
 brand_portfolio_title: My Portfolio
 brand_portfolio_description: I've had the pleasure to work on employer branding projects for major companies across industries—General Motors, Northrop Grumman, US Department of State, Capital One, Macy's, Ann Taylor and more.
 brand_portfolio_1: NA
-brand_img_1_title: GM Careers
-brand_img_1: GM_MadeForMore_HomePG.png
+brand_img_1_title: VA Careers
+brand_img_1: VA_Careers.png
 brand_portfolio_2: NA
-brand_img_2_title: Capital One Cafe
-brand_img_2: CapitalOneCafe_CafeSpirit.jpeg
+brand_img_2_title: GM Careers
+brand_img_2: GM_MadeForMore_HomePG.png
 brand_portfolio_3: NA
-brand_img_3_title: Ann Taylor Careers
-brand_img_3: ANN_TAYLOR_Careers.jpeg
+brand_img_3_title: Capital One Cafe
+brand_img_3: CapitalOneCafe_CafeSpirit.jpeg
 brand_portfolio_4: NA
-brand_img_4_title: Cleveland Clinic Careers
-brand_img_4: CC_Careers_HomePG.jpeg
+brand_img_4_title: Ann Taylor Careers
+brand_img_4: ANN_TAYLOR_Careers.jpeg
+brand_portfolio_5: NA
+brand_img_5_title: Cleveland Clinic Careers
+brand_img_5: CC_Careers_HomePG.jpeg
 
 # project-date: January 2025
 # client: Start Bootstrap
