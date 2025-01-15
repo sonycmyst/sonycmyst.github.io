@@ -49,16 +49,16 @@ brand_portfolio_6: NA
 brand_img_6_title: Comcast Careers
 brand_img_6: ComcastCareers_SalesConsultantPg.jpeg
 
-section_1: NA
-section_title_1: The branding process
+section_2: NA
+section_title_2: The branding process
 process_1: Phase1_Discovery.png
 process_1_alt: Phase 1 - Discovery
-process_2: Discovery.png
-process_2_alt: Discovery
-process_3: Phase1_Discovery.png
-process_3_alt: Phase 1 - Discovery
-process_4: Phase1_Discovery.png
-process_4_alt: Phase 1 - Discovery
+process_2: Phase2_Dev.png
+process_2_alt: Phase 2 - Development
+process_3: Phase3_Design.png
+process_3_alt: Phase 3 - Design
+process_4: Phase4_Delivery.png
+process_4_alt: Phase 4 - Delivery
 
 # project-date: January 2025
 # client: Start Bootstrap
