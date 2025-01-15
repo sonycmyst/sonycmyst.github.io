@@ -1,11 +1,28 @@
 ---
 layout: default
 modal-id: 1
+title: Music Composer
 date: 2025-01-01
 img: music.png
-alt: image-alt
+alt: Music
 project-date: January 2025
 client: Start Bootstrap
 category: Music
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: You're a creative who understand the value of a strong, unique soundtrack and the power it has to amplify a story from the screen into an immersive, soul-gripping experience. You believe music is not an afterthought or background filler but an essential fuel that drives the story forward. I can't wait to hear about your latest project because you know what I do is not just about making music—it's about inspiring new worlds.
+
+section_1: NA
+section_title_1: What's your big idea?
+brand_section_1: NA
+services_1: Video_Games.png
+services_1_alt: Video Games
+services_2: TV_Animation.png
+services_2_alt: TV & Animation
+services_3: Film_Documentary.png
+services_3_alt: Film & Documentary
+services_4: Songwriting.png
+services_4_alt: Songwriting
+services_5: Theme_Songs.png
+services_5_alt: Theme Songs
+services_6: Jingles_Idents.png
+services_6_alt: Brand Jingles & Idents
 ---

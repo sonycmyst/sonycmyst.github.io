@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 3
+title: Brand Consultant
 date: 2025-01-01
 img: branding1.png
 alt: Branding
@@ -8,6 +9,7 @@ description: You are one-of-a-kind and have something meaningful to offer the wo
 
 section_1: NA
 section_title_1: Breathe life into your brand
+brand_section_1: NA
 services_1: Mission.png
 services_1_alt: Mission & Value Proposition
 services_2: Personas.png
@@ -27,6 +29,7 @@ testimonial_1_alt: Ariana's testimonial
 testimonial_2: Victoria_testimonial.png
 testimonial_2_alt: Victoria's testimonial
 
+brand_section_2: NA
 brand_portfolio: NA
 brand_portfolio_title: My Portfolio
 brand_portfolio_description: I've had the pleasure to work on employer branding projects for major companies across industries—General Motors, Northrop Grumman, US Department of State, Capital One, Macy's, Ann Taylor and more.
@@ -51,6 +54,7 @@ brand_img_6: ComcastCareers_SalesConsultantPg.jpeg
 
 section_2: NA
 section_title_2: The branding process
+brand_section_3: NA
 process_1_title: Discovery.png
 process_1: Phase1_Discovery.png
 process_1_alt: Phase 1 - Discovery

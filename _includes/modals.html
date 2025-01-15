@@ -28,7 +28,9 @@
 			{% if post.section_1 %}
             <h2>{{ post.section_title_1 }}</h2>
 			{% endif %}
+			{% if post.brand_section_1 %}
             <hr class="star-primary">
+			{% endif %}
 			{% if post.section_title_1 %}
 			<div class="container">
 				<div class="row">
@@ -53,7 +55,9 @@
 				</div>
 			</div>
             {% endif %}
-			<hr class="star-primary">
+			{% if post.brand_section_2 %}
+            <hr class="star-primary">
+			{% endif %}
 			{% if post.brand_portfolio %}
 			 <div class="container">
 				<div class="row">
@@ -103,20 +107,22 @@
 			{% if post.section_2 %}
             <h2>{{ post.section_title_2 }}</h2>
 			{% endif %}
+			{% if post.brand_section_3 %}
             <hr class="star-primary">
+			{% endif %}
 			{% if post.section_title_2 %}
 			<div class="container">
 				<div class="row">
-					<div class="pt-0 col-lg-6 text-center">
+					<div class="col-lg-6">
 						<p><img src="/img/brand_process/{{ post.process_1_title }}" alt="{{ post.process_1_alt }}"></p>
 					</div>
-					<div class="pt-0 col-lg-6 text-center">
+					<div class="col-lg-6">
 						<p><img src="/img/brand_process/{{ post.process_2_title }}" alt="{{ post.process_2_alt }}"></p>
 					</div>
-					<div class="pt-0 col-lg-6 text-center">	
+					<div class="col-lg-6 text-center">	
 						<p><img src="/img/brand_process/{{ post.process_1 }}" alt="{{ post.process_1_alt }}"></p>
 					</div>
-					<div class="pt-0 col-lg-6 text-center">	
+					<div class="col-lg-6 text-center">	
 						<p><img src="/img/brand_process/{{ post.process_2 }}" alt="{{ post.process_2_alt }}"></p>
 					</div>
 				</div>	
