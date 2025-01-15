@@ -25,18 +25,18 @@
 					</div>
 				</div>	
             {% endif %}<br>
-			{% if post.section_title_1 %}
-            <h2>Breathe life into your brand</h2>
+			{% if post.section_1 %}
+            <h2>{{ post.section_title_1 }}</h2>
 			{% endif %}
             <hr class="star-primary">
 			{% if post.section_title_1 %}
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-6 text-center">
-						<p><img src="/img/branding_icons/{{ post.services_1 }}" alt="{{ post.services_1_alt }}"><br><img src="/img/branding_icons/{{ post.services_2 }}" alt="{{ post.services_2_alt }}"><br><img src="/img/branding_icons/{{ post.services_3 }}" alt="{{ post.services_3_alt }}"></p>
+						<p><img src="/img/brand_icons/{{ post.services_1 }}" alt="{{ post.services_1_alt }}"><br><img src="/img/brand_icons/{{ post.services_2 }}" alt="{{ post.services_2_alt }}"><br><img src="/img/brand_icons/{{ post.services_3 }}" alt="{{ post.services_3_alt }}"></p>
 					</div>
 					<div class="col-lg-6 text-center">
-						<p><img src="/img/branding_icons/{{ post.services_4 }}" alt="{{ post.services_4_alt }}"><br><img src="/img/branding_icons/{{ post.services_5 }}" alt="{{ post.services_5_alt }}"><br><img src="/img/branding_icons/{{ post.services_6 }}" alt="{{ post.services_6_alt }}"></p>
+						<p><img src="/img/brand_icons/{{ post.services_4 }}" alt="{{ post.services_4_alt }}"><br><img src="/img/brand_icons/{{ post.services_5 }}" alt="{{ post.services_5_alt }}"><br><img src="/img/brand_icons/{{ post.services_6 }}" alt="{{ post.services_6_alt }}"></p>
 					</div>
 				</div>
 			</div>
@@ -98,6 +98,22 @@
               </li>
               {% endif %}
             </ul>
+			{% if post.section_2 %}
+            <h2>{{ post.section_title_2 }}</h2>
+			{% endif %}
+            <hr class="star-primary">
+			{% if post.section_title_2 %}
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6 text-center">
+						<p><img src="/img/brand_process/{{ post.process_1 }}" alt="{{ post.process_1_alt }}"><br><img src="/img/brand_process/{{ post.process_2 }}" alt="{{ post.process_2_alt }}"></p>
+					</div>
+					<div class="col-lg-6 text-center">
+						<p><img src="/img/brand_process/{{ post.process_3 }}" alt="{{ post.process_3_alt }}"><br><img src="/img/brand_process/{{ post.process_4 }}" alt="{{ post.process_4_alt }}"></p>
+					</div>
+				</div>
+			</div>
+			{% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}
               <li>Client:
