@@ -5,14 +5,11 @@ title: Music Composer
 date: 2025-01-01
 img: music.png
 alt: Music
-project-date: January 2025
-client: Start Bootstrap
-category: Music
 description: You're a creative who understand the value of a strong, unique soundtrack and the power it has to amplify a story from the screen into an immersive, soul-gripping experience. You believe music is not an afterthought or background filler but an essential fuel that drives the story forward. I can't wait to hear about your latest project because you know what I do is not just about making music—it's about inspiring new worlds.
 
 section_1: NA
 section_title_1: What's your big idea?
-brand_section_1: NA
+page_section_1: NA
 services_1: music_icons/Video_Games.png
 services_1_alt: Video Games
 services_2: music_icons/TV_Animation.png
@@ -31,4 +28,14 @@ testimonial_1: Teo_testimonial.png
 testimonial_1_alt: Aron's testimonial
 testimonial_2: clever_girls_testimonial.png
 testimonial_2_alt: ghost kid's testimonial
+
+section_2: NA
+section_title_2: Project spotlight
+music_section_3: NA
+music_spotlight_1: NA
+spotlight_1_title: MINE
+
+# project-date: January 2025
+# client: Start Bootstrap
+# category: Music
 ---
