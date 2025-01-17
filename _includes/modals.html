@@ -118,19 +118,57 @@
 					<div class="col-lg-6">
 						<h3>{{ post.spotlight_1_title }}</h3>
 					</div>
+				</div>
+				<div class="row">
 					<div class="col-lg-6">
 					<p><img src="/img/music_spotlight/{{ post.spotlight_1_img }}" alt="{{ post.spotlight_1_alt }}"></p>
 					</div>
 					<div class="col-lg-6 text-left">
 						<p>{{ post.spotlight_1_desc }}</p>
 					</div>
-					<div class="col-lg-6 text-center">	
-						<p><img src="/img/brand_process/{{ post.process_1 }}" alt="{{ post.process_1_alt }}"></p>
-					</div>
-					<div class="col-lg-6 text-center">	
-						<p><img src="/img/brand_process/{{ post.process_2 }}" alt="{{ post.process_2_alt }}"></p>
+				</div>
+				<hr class="star-primary">
+			</div>	
+			{% endif %}
+			{% if post.music_spotlight_2 %}
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6">
+						<h3>{{ post.spotlight_2_title }}</h3>
 					</div>
 				</div>
+				<div class="row">
+					<div class="col-lg-6">
+					<p><img src="/img/music_spotlight/{{ post.spotlight_2_img }}" alt="{{ post.spotlight_2_alt }}"></p>
+					</div>
+					<div class="col-lg-6 text-left">
+						<p>{{ post.spotlight_2_desc }}</p>
+					</div>
+				</div>
+				<hr class="star-primary">
+			</div>	
+			{% endif %}
+			{% if post.music_spotlight_3 %}
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6">
+						<h3>{{ post.spotlight_3_title }}</h3>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-6">
+					<p><img src="/img/music_spotlight/{{ post.spotlight_3_img }}" alt="{{ post.spotlight_3_alt }}"></p>
+					</div>
+					<div class="col-lg-6 text-left">
+						<p>{{ post.spotlight_3_desc }}</p>
+					</div>
+					{% if post.music_spotlight_3 %}
+					<div class="col-lg-6">
+						<p>{{ post.spotlight_3_testimonial }}</p>
+					</div>
+					{% endif %}
+				</div>
+				<hr class="star-primary">
 			</div>	
 			{% endif %}
 			
