@@ -44,8 +44,9 @@ spotlight_2_alt: Dot's Home screenshot
 spotlight_2_desc: <p class="sqsrte-large" style="white-space:pre-wrap;"><strong>Dot’s Home</strong>,<strong> </strong><em>a </em>new video game developed through the <a href="https://risehomestories.com/" target="_blank">Rise-Home Stories Project</a>, premiered at <a href="https://anywhere.indiecade.com/nominated-games/" target="_blank">IndieCade</a> on October 22nd and was nominated for the 2021 Impact Award. <strong>Dot’s Home</strong> follows a young Black woman in today’s Detroit, living in her grandmother’s beloved home. When she is forced to decide whether to stay or sell the house, she travels through time to relive key moments in her family’s history where race, place, and home collide in difficult choices. <strong>Dot’s Home</strong> is a 2020 Unity for Humanity Grant awardee. <a href="https://risehomestories.com/dots-home/" target="_blank">Learn more.</a></p><p class="sqsrte-large" style="white-space:pre-wrap;">Download <strong>Dot’s Home</strong> for free (PC/Mac &amp; mobile) on <a href="https://store.steampowered.com/app/1763520/Dots_Home/">STEAM</a>!</p>
 music_spotlight_3: NA
 spotlight_3_title: TiltBill
-spotlight_3_img: DotsHome.jpg
+spotlight_3_img: TiltBill.jpg
 spotlight_3_alt: TiltBill screenshot
+spotlight_3_testimonial: Jason_testimonial.png
 spotlight_3_desc: <p class="sqsrte-large" style="white-space:pre-wrap;">Check out <a href="https://apps.apple.com/us/app/id1524339087"><strong>TiltBill</strong></a>, a new game from <a href="https://web.archive.org/web/20220413112313/http://severe-studios.com/" target="_blank">Severe Studios</a> and enjoy its original soundtrack composed by yours truly.</p><p class="sqsrte-large" style="white-space:pre-wrap;">Tilt and tap your iPhone (or iPad) to explore and conquer the many challenging and beautiful levels of <strong>TiltBill</strong>™! Solve tricky puzzles, find hidden secrets, defeat dangerous foes, and confront Mr. Mustache himself to rescue the love of your life!</p>
 
 
