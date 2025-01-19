@@ -50,7 +50,9 @@ spotlight_3_testimonial: Jason_testimonial.png
 spotlight_3_desc: <p class="sqsrte-large" style="white-space:pre-wrap;">Check out <a href="https://apps.apple.com/us/app/id1524339087"><strong>TiltBill</strong></a>, a new game from <a href="https://web.archive.org/web/20220413112313/http://severe-studios.com/" target="_blank">Severe Studios</a> and enjoy its original soundtrack composed by yours truly.</p><p class="sqsrte-large" style="white-space:pre-wrap;">Tilt and tap your iPhone (or iPad) to explore and conquer the many challenging and beautiful levels of <strong>TiltBill</strong>™! Solve tricky puzzles, find hidden secrets, defeat dangerous foes, and confront Mr. Mustache himself to rescue the love of your life!</p>
 music_section_4: NA
 music_4_title: Check out my <a href="https://youtu.be/HM87oBQVd0M?si=YNPrcCilI8wE3Kvj" target="_blank"><strong>Game Music Reel</strong></a>
-
+music_section_5: NA
+music_5_title: Original Music Sampler
+sampler_1_title: PHS
 
 # project-date: January 2025
 # client: Start Bootstrap

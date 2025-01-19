@@ -127,7 +127,7 @@
 						<p>{{ post.spotlight_1_desc }}</p>
 					</div>
 				</div>
-				<hr class="star-primary">
+				<br>
 			</div>	
 			{% endif %}
 			{% if post.music_spotlight_2 %}
@@ -145,7 +145,7 @@
 						<p>{{ post.spotlight_2_desc }}</p>
 					</div>
 				</div>
-				<hr class="star-primary">
+				<br>
 			</div>	
 			{% endif %}
 			{% if post.music_spotlight_3 %}
@@ -168,17 +168,31 @@
 					</div>
 					{% endif %}
 				</div>
-				<hr class="star-primary">
 			</div>	
 			{% endif %}
 			{% if post.music_section_4 %}
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-lg-offset-2 text-center">
-						<h3>{{ post.music_4_title }}</h3>
+						<h3>{{ post.music_4_title }}</h3><br>
 					</div>
 				</div>
-				<hr class="star-primary">
+			</div>	
+			{% endif %}
+			{% if post.music_section_5 %}
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-8 col-lg-offset-2 text-center">
+						<h2>{{ post.music_5_title }}</h2>
+						<hr class="star-primary">
+					</div>
+
+				</div>
+				<div class="row">
+					<div class="col-lg-8 col-lg-offset-2 text-center">
+						<h3>{{ post.sampler_1_title }}</h3>
+					</div>
+				</div>
 			</div>	
 			{% endif %}
 			
