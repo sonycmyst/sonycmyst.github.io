@@ -52,12 +52,10 @@ music_section_4: NA
 music_4_title: Check out my <a href="https://youtu.be/HM87oBQVd0M?si=YNPrcCilI8wE3Kvj" target="_blank"><strong>Game Music Reel</strong></a>
 music_section_5: NA
 music_5_title: Original Music Sampler
-sampler_1_title: PHS
 sampler_1_img: na
 sampler_1_desc: <strong>Pumashock's High Score</strong> is my personal challenge to reimagine video game scores across genres and platforms. It’s also my excuse to get silly in front of a green screen. Enjoy! Watch the episodes. Hear my original music. Join the dance party. Check out all the music from my web series PHS! <br><a href="https://youtube.com/playlist?list=PLfEQJBfT5oTtSgCi_8ZfkitAnAdZb8PKX&si=KTvZ9i4Q9Mj4KJtW" target="_blank">Season 1</a><a href="https://youtube.com/playlist?list=PLfEQJBfT5oTueGN9uMBCo6CPE1jcACJBz&si=DRPWzhPvB4ThXLNb" target="_blank">Season 2</a>
-sampler_2_title: Vigipop
 sampler_2_img: vigipop.jpg
-sampler_2_desc: My first full-length EP! <strong>All tracks are available for purchase on </strong><a href="https://pumashock.bandcamp.com/music"><strong>Bandcamp</strong></a>.<br>Original material written, produced and performed by pumashock. Mixing, mastering and additional creative input by Rob Clewley. © 2017 pumashock. All rights reserved.
+sampler_2_desc: <strong>Vigipop</strong> is my first full-length EP!<br><strong>All tracks are available for purchase on </strong><a href="https://pumashock.bandcamp.com/music"><strong>Bandcamp</strong></a>.<br>Original material written, produced and performed by pumashock. Mixing, mastering and additional creative input by Rob Clewley. © 2017 pumashock. All rights reserved.
 
 # project-date: January 2025
 # client: Start Bootstrap
