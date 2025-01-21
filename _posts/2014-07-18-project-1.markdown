@@ -32,30 +32,36 @@ testimonial_2_alt: ghost kid's testimonial
 section_2: NA
 section_title_2: Project spotlight
 music_section_3: NA
+
 music_spotlight_1: NA
-spotlight_1_title: MINE
-spotlight_1_img: MINE.png
-spotlight_1_alt: MINE screenshot
-spotlight_1_desc: <p class="sqsrte-large" style="white-space:pre-wrap;"><em>When the sudden disappearance of water, their main life-source, threatens to upend a vibrant utopia, Blaze, an intrepid teen, must save their community before it’s too late. </em></p><p class="sqsrte-large" style="white-space:pre-wrap;">"<strong><a href="https://www.youtube.com/watch?v=v8BT2I5zfAM" target="_blank">MINE</a></strong> is an animated series that explores the difficult and worthwhile fight for the community you love. Created through a unique collaboration of artists, land and housing activists."</p><p class="sqsrte-large" style="white-space:pre-wrap;"><strong>MINE</strong> is a part of the <a href="https://risehomestories.com" target="_blank">Rise-Home Stories project</a>, a groundbreaking collaboration that aims to reimagine the past, present and future of our communities by transforming the stories we tell about them. In 2018, our group of multimedia storytellers and housing, land and racial justice advocates came together and began a unique co-creative process. We’ve created a suite of five multimedia narrative projects, including <strong>MINE</strong>, that speak to the power of abundance and collective action in the face of increasingly toxic narratives of scarcity and individualism while planting a long-term vision for a just future. <a href="https://risehomestories.com/mine/about/" target="_blank">Learn more.</a></p><p class="sqsrte-large" style="white-space:pre-wrap;">Supported by <a href="https://www.fordfoundation.org/">The Ford Foundation</a>, <a href="http://www.joluproductions.com/">JoLu Productions</a> and <a href="https://www.workingfilms.org/">Working Films</a>. 
+spotlight_1_title: Dot's Home
+spotlight_1_img: DotsHome.jpg
+spotlight_1_alt: Dot's Home screenshot
+spotlight_1_desc: <p class="sqsrte-large" style="white-space:pre-wrap;"><strong>Dot’s Home</strong>,<strong> </strong><em>a </em>new video game developed through the <a href="https://risehomestories.com/" target="_blank">Rise-Home Stories Project</a>, premiered at <a href="https://anywhere.indiecade.com/nominated-games/" target="_blank">IndieCade</a> on October 22nd and was nominated for the 2021 Impact Award. <strong>Dot’s Home</strong> follows a young Black woman in today’s Detroit, living in her grandmother’s beloved home. When she is forced to decide whether to stay or sell the house, she travels through time to relive key moments in her family’s history where race, place, and home collide in difficult choices. <strong>Dot’s Home</strong> is a 2020 Unity for Humanity Grant awardee. <a href="https://risehomestories.com/dots-home/" target="_blank">Learn more.</a></p><p class="sqsrte-large" style="white-space:pre-wrap;">Download <strong>Dot’s Home</strong> for free (PC/Mac &amp; mobile) on <a href="https://store.steampowered.com/app/1763520/Dots_Home/">STEAM</a>!</p>
+
 music_spotlight_2: NA
-spotlight_2_title: Dot's Home
-spotlight_2_img: DotsHome.jpg
-spotlight_2_alt: Dot's Home screenshot
-spotlight_2_desc: <p class="sqsrte-large" style="white-space:pre-wrap;"><strong>Dot’s Home</strong>,<strong> </strong><em>a </em>new video game developed through the <a href="https://risehomestories.com/" target="_blank">Rise-Home Stories Project</a>, premiered at <a href="https://anywhere.indiecade.com/nominated-games/" target="_blank">IndieCade</a> on October 22nd and was nominated for the 2021 Impact Award. <strong>Dot’s Home</strong> follows a young Black woman in today’s Detroit, living in her grandmother’s beloved home. When she is forced to decide whether to stay or sell the house, she travels through time to relive key moments in her family’s history where race, place, and home collide in difficult choices. <strong>Dot’s Home</strong> is a 2020 Unity for Humanity Grant awardee. <a href="https://risehomestories.com/dots-home/" target="_blank">Learn more.</a></p><p class="sqsrte-large" style="white-space:pre-wrap;">Download <strong>Dot’s Home</strong> for free (PC/Mac &amp; mobile) on <a href="https://store.steampowered.com/app/1763520/Dots_Home/">STEAM</a>!</p>
+spotlight_2_title: MINE
+spotlight_2_img: MINE.png
+spotlight_2_alt: MINE screenshot
+spotlight_2_desc: <p class="sqsrte-large" style="white-space:pre-wrap;">"<strong><a href="https://www.youtube.com/watch?v=v8BT2I5zfAM" target="_blank">MINE</a></strong> is an animated series that explores the difficult and worthwhile fight for the community you love. Created through a unique collaboration of artists, land and housing activists."</p><p class="sqsrte-large" style="white-space:pre-wrap;"><strong>MINE</strong> is a part of the <a href="https://risehomestories.com" target="_blank">Rise-Home Stories project</a>, a groundbreaking collaboration that aims to reimagine the past, present and future of our communities by transforming the stories we tell about them. In 2018, our group of multimedia storytellers and housing, land and racial justice advocates came together and began a unique co-creative process. We’ve created a suite of five multimedia narrative projects, including <strong>MINE</strong>, that speak to the power of abundance and collective action in the face of increasingly toxic narratives of scarcity and individualism while planting a long-term vision for a just future. <a href="https://risehomestories.com/mine/about/" target="_blank">Learn more.</a></p><p class="sqsrte-large" style="white-space:pre-wrap;">Supported by <a href="https://www.fordfoundation.org/">The Ford Foundation</a>, <a href="http://www.joluproductions.com/">JoLu Productions</a> and <a href="https://www.workingfilms.org/">Working Films</a>. 
+spotlight_2_desc_2: <p class="sqsrte-large" style="white-space:pre-wrap;"><em>When the sudden disappearance of water, their main life-source, threatens to upend a vibrant utopia, Blaze, an intrepid teen, must save their community before it’s too late. </em></p>
+
 music_spotlight_3: NA
 spotlight_3_title: TiltBill
 spotlight_3_img: TiltBill.jpg
 spotlight_3_alt: TiltBill screenshot
 spotlight_3_testimonial: Jason_testimonial.png
 spotlight_3_desc: <p class="sqsrte-large" style="white-space:pre-wrap;">Check out <a href="https://apps.apple.com/us/app/id1524339087"><strong>TiltBill</strong></a>, a new game from <a href="https://web.archive.org/web/20220413112313/http://severe-studios.com/" target="_blank">Severe Studios</a> and enjoy its original soundtrack composed by yours truly.</p><p class="sqsrte-large" style="white-space:pre-wrap;">Tilt and tap your iPhone (or iPad) to explore and conquer the many challenging and beautiful levels of <strong>TiltBill</strong>™! Solve tricky puzzles, find hidden secrets, defeat dangerous foes, and confront Mr. Mustache himself to rescue the love of your life!</p>
+
 music_section_4: NA
 music_4_title: Check out my <a href="https://youtu.be/HM87oBQVd0M?si=YNPrcCilI8wE3Kvj" target="_blank"><strong>Game Music Reel</strong></a>
 music_section_5: NA
 music_5_title: Original Music Sampler
-sampler_1_img: na
-sampler_1_desc: <strong>Pumashock's High Score</strong> is my personal challenge to reimagine video game scores across genres and platforms. It’s also my excuse to get silly in front of a green screen. Enjoy! Watch the episodes. Hear my original music. Join the dance party. Check out all the music from my web series PHS! <br><a href="https://youtube.com/playlist?list=PLfEQJBfT5oTtSgCi_8ZfkitAnAdZb8PKX&si=KTvZ9i4Q9Mj4KJtW" target="_blank">Season 1</a><a href="https://youtube.com/playlist?list=PLfEQJBfT5oTueGN9uMBCo6CPE1jcACJBz&si=DRPWzhPvB4ThXLNb" target="_blank">Season 2</a>
+sampler_1_img: PHS_banner.png
+sampler_1_desc: <strong>Pumashock's High Score</strong> is my personal challenge to reimagine video game scores across genres and platforms. It’s also my excuse to get silly in front of a green screen.<br>Watch the episodes. Hear my original music. Join the dance party. Enjoy!<br>Season 1 -> <a href="https://youtube.com/playlist?list=PLfEQJBfT5oTtSgCi_8ZfkitAnAdZb8PKX&si=KTvZ9i4Q9Mj4KJtW" target="_blank">Episodes</a> | <a href="https://pumashock.bandcamp.com/album/phs-season-1" target="_blank">Soundtrack</a><br>Season 2 -> <a href="https://youtube.com/playlist?list=PLfEQJBfT5oTueGN9uMBCo6CPE1jcACJBz&si=DRPWzhPvB4ThXLNb" target="_blank">Episodes</a> | <a href="https://pumashock.bandcamp.com/album/phs-season-2" target="_blank">Soundtrack</a>
+
 sampler_2_img: vigipop.jpg
-sampler_2_desc: <strong>Vigipop</strong> is my first full-length EP!<br><strong>All tracks are available for purchase on </strong><a href="https://pumashock.bandcamp.com/music"><strong>Bandcamp</strong></a>.<br>Original material written, produced and performed by pumashock. Mixing, mastering and additional creative input by Rob Clewley. © 2017 pumashock. All rights reserved.
+sampler_2_desc: <strong>Vigipop</strong> is my first full-length EP!<br><strong>All tracks are available for purchase on </strong><a href="https://pumashock.bandcamp.com/music"><strong>Bandcamp</strong></a>.<br>Original material written, produced and performed by pumashock.<br>Mixing, mastering and additional creative input by Rob Clewley.<br><em>© 2017 pumashock. All rights reserved.</em>
 
 # project-date: January 2025
 # client: Start Bootstrap
