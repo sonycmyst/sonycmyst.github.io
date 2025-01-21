@@ -189,11 +189,24 @@
 
 				</div>
 				<div class="row">
-					<div class="col-lg-8 col-lg-offset-2 text-center">
+					<div class="col-lg-4 text-right">
 						<h3>{{ post.sampler_1_title }}</h3>
+						<p><img src="/img/music_sampler/{{ post.sampler_1_img }}"></p>
+					</div>
+					<div class="col-lg-8 text-left">
+						<p>{{ post.sampler_1_desc }}</p>
 					</div>
 				</div>
-			</div>	
+				<div class="row">
+					<div class="col-lg-4 text-right">
+						<h3>{{ post.sampler_2_title }}</h3>
+						<p><img src="/img/music_sampler/{{ post.sampler_2_img }}"></p>
+					</div>
+					<div class="col-lg-8 text-left">
+						<p>{{ post.sampler_2_desc }}</p>
+					</div>
+				</div>
+			</div>				
 			{% endif %}
 			
 			<!-- brand sections -->
