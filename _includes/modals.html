@@ -211,13 +211,21 @@
 						<p><img src="/img/music_sampler/{{ post.sampler_2_img }}"></p>
 					</div>
 				</div>
-			</div>				
+			</div>
+			<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
+              Close</button>			
 			{% endif %}
+			
+			<!-- game dev sections -->
+			{% if post.gamedev_button %}
+			<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
+              Close</button>
+			{% endif %}			  
 			
 			<!-- brand sections -->
 			{% if post.brand_section_3 %}
             <hr class="star-primary">
-			{% endif %}
+			
 			{% if post.section_title_2 %}
 			<div class="container">
 				<div class="row">
@@ -270,6 +278,13 @@
             </ul>
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
+			  {% endif %}
+			  
+			<!-- textiles sections -->
+			{% if post.textiles_button %}
+			<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
+              Close</button>
+			{% endif %}	
           </div>
         </div>
       </div>

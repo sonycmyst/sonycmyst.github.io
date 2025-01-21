@@ -9,4 +9,5 @@ alt: Textile Art
 # client: Start Bootstrap
 # category: Textile Art
 description: Shop coming soon!<br> In the meantime, fellow crafters can join me on  <a href="https://www.ravelry.com/people/pumashock">Ravelry</a> and <a href="https://pin.it/6XGSPnehD">Pinterest</a>. 
+textiles_button: NA
 ---
