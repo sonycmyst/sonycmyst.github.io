@@ -7,6 +7,12 @@ alt: image-alt
 project-date: January 2025
 client: Start Bootstrap
 category: Game Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 gamedev_button: NA
+game_project_1: NA
+game_project_1_embed: <iframe frameborder="0" src="https://itch.io/embed/3059729?bg_color=1f5b4c&amp;fg_color=e7c077&amp;link_color=69c56f&amp;border_color=437f70" width="552" height="167"><a href="https://transient-dynamic.itch.io/flowee">Flowee by transient-dynamic</a></iframe>
+game_project_1_desc: Make the right amount of energy flow from the sources to the sinks in the 3 x 4 grid.<br>Flowee is a daily logic puzzle that combines spatial optimization with simple sums. There's a unique easy, medium, and hard puzzle every day. The downloadable version lets you play offline and includes mp3s of the soundtrack and an easy way to share your wins on social media.<br><br><em>Original design and development by Rob Clewley as a mini-game within the upcoming sci-fi hacking simulator, <a href="https://transient-dynamic.itch.io/operandi">OPERANDi</a>.<br>Unreal implementation and original music by pumashock.</em>
+
+game_project_2: NA
+game_project_2_title: In the works
+game_project_2_desc: I'm currently working on new game demos.
 ---

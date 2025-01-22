@@ -217,6 +217,33 @@
 			{% endif %}
 			
 			<!-- game dev sections -->
+			{% if post.game_project_1 %}
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6 text-right">
+						<p>{{ post.game_project_1_embed }}</p>
+					</div>
+					<div class="col-lg-6 text-left">
+						<p>{{ post.game_project_1_desc }}</p>
+					</div>
+				</div>
+			</div><br><br>	
+			{% endif %}	
+			{% if post.game_project_2 %}
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-8 col-lg-offset-2 text-center">
+						<h2>{{ post.game_project_2_title }}</h2>
+					</div>
+				</div>	
+				<hr class="star-primary">
+				<div class="row">	
+					<div class="col-lg-8 col-lg-offset-2 text-center">
+						<p>{{ post.game_project_2_desc }}</p>
+					</div>
+				</div>
+			</div><br><br>	
+			{% endif %}	
 			{% if post.gamedev_button %}
 			<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
