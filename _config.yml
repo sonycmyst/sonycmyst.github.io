@@ -39,12 +39,7 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: bluesky
-    url: https://bsky.app/profile/pumashock.bsky.social
-  - title: twitter
-    url: https://x.com/pumashock
-  - title: bandcamp
-    url: https://pumashock.bandcamp.com/album/phs-season-2
+
 
 # Postal address (add as many lines as necessary)
 address:
