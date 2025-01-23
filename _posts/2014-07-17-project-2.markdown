@@ -15,7 +15,7 @@ game_pub_1_credits: <em>Original design and development by Rob Clewley as a mini
 
 game_projects: NA
 game_projects_title: In the works
-game_projects_desc: I'm currently working on new game demos!
+game_projects_desc: I'm currently working on new game demos! Follow my socials for updates.
 
 game_project_1: NA
 game_project_1_title: Project 1
