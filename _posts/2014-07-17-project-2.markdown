@@ -8,11 +8,20 @@ project-date: January 2025
 client: Start Bootstrap
 category: Game Development
 gamedev_button: NA
+game_pub_1: NA
+game_pub_1_embed: <iframe frameborder="0" src="https://itch.io/embed/3059729?bg_color=1f5b4c&amp;fg_color=e7c077&amp;link_color=69c56f&amp;border_color=437f70" width="552" height="167"><a href="https://transient-dynamic.itch.io/flowee">Flowee by transient-dynamic</a></iframe>
+game_pub_1_desc: Make the right amount of energy flow from the sources to the sinks in the 3 x 4 grid.<br><a href="https://transient-dynamic.itch.io/flowee">Flowee</a> is a daily logic puzzle that combines spatial optimization with simple sums. There's a unique easy, medium, and hard puzzle every day. The downloadable version lets you play offline and includes mp3s of the soundtrack and an easy way to share your wins on social media.
+game_pub_1_credits: <em>Original design and development by Rob Clewley as a mini-game within the upcoming sci-fi hacking simulator, <a href="https://transient-dynamic.itch.io/operandi">OPERANDi</a>.<br>Unreal implementation and original music by pumashock.</em>
+
+game_projects: NA
+game_projects_title: In the works
+game_projects_desc: I'm currently working on new game demos!
+
 game_project_1: NA
-game_project_1_embed: <iframe frameborder="0" src="https://itch.io/embed/3059729?bg_color=1f5b4c&amp;fg_color=e7c077&amp;link_color=69c56f&amp;border_color=437f70" width="552" height="167"><a href="https://transient-dynamic.itch.io/flowee">Flowee by transient-dynamic</a></iframe>
-game_project_1_desc: Make the right amount of energy flow from the sources to the sinks in the 3 x 4 grid.<br>Flowee is a daily logic puzzle that combines spatial optimization with simple sums. There's a unique easy, medium, and hard puzzle every day. The downloadable version lets you play offline and includes mp3s of the soundtrack and an easy way to share your wins on social media.<br><br><em>Original design and development by Rob Clewley as a mini-game within the upcoming sci-fi hacking simulator, <a href="https://transient-dynamic.itch.io/operandi">OPERANDi</a>.<br>Unreal implementation and original music by pumashock.</em>
+game_project_1_title: Project 1
+game_project_1_desc: A mysterious, music-based puzzle game with observation duty and horror elements...with a twist.
 
 game_project_2: NA
-game_project_2_title: In the works
-game_project_2_desc: I'm currently working on new game demos.
+game_project_2_title: Project 2
+game_project_2_desc: A story-driven, strategy/resource management game featuring political intrigue, quirky aliens, and delicious smoothies.
 ---

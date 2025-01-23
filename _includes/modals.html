@@ -217,33 +217,53 @@
 			{% endif %}
 			
 			<!-- game dev sections -->
-			{% if post.game_project_1 %}
+			{% if post.game_pub_1 %}
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-6 text-right">
-						<p>{{ post.game_project_1_embed }}</p>
+					<div class="col-lg-6 text-center">
+						<p>{{ post.game_pub_1_embed }}</p>
+						<p>{{ post.game_pub_1_credits }}</p>
 					</div>
 					<div class="col-lg-6 text-left">
-						<p>{{ post.game_project_1_desc }}</p>
+						<h3>Flowee</h3>
+						<p>{{ post.game_pub_1_desc }}</p>
 					</div>
 				</div>
 			</div><br><br>	
 			{% endif %}	
-			{% if post.game_project_2 %}
+			{% if post.game_projects %}
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-lg-offset-2 text-center">
-						<h2>{{ post.game_project_2_title }}</h2>
+						<h2>{{ post.game_projects_title }}</h2>
 					</div>
 				</div>	
 				<hr class="star-primary">
 				<div class="row">	
 					<div class="col-lg-8 col-lg-offset-2 text-center">
-						<p>{{ post.game_project_2_desc }}</p>
+						<p>{{ post.game_projects_desc }}</p>
 					</div>
 				</div>
 			</div><br><br>	
-			{% endif %}	
+
+			<div class="container">
+				<div class="row">
+					{% if post.game_project_1 %}
+					<div class="col-lg-4 col-lg-offset-2 text-left">
+						<h3>{{ post.game_project_1_title }}</h3>
+						<p>{{ post.game_project_1_desc }}</p>
+					</div>
+					{% endif %}	
+					{% if post.game_project_2 %}
+					<div class="col-lg-4 text-left">
+						<h3>{{ post.game_project_2_title }}</h3>
+						<p>{{ post.game_project_2_desc }}</p>
+					</div>
+					{% endif %}	
+				</div>	
+			</div><br><br>	
+			{% endif %}
+			
 			{% if post.gamedev_button %}
 			<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
@@ -319,3 +339,5 @@
   </div>
 </div>
 {% endfor %}
+
+
