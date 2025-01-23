@@ -19,6 +19,12 @@
               <a href="{{ network.url }}" class="btn-social btn-outline"><i
                   class="fa-brands fa-fw fa-{{ network.title }}"></i></a>
             </li>
+			{% if site.social_bluesky %}
+			<li>
+              <a href="{{ network.url_bluesky }}" class="btn-social btn-outline"><i
+                  class="fa-brands fa-fw fa-{{ network.title_bluesky }}"></i></a>
+            </li>
+			{% endif %}
             {% endfor %}
           </ul>
         </div>
